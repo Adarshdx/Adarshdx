@@ -1,11 +1,10 @@
 # 💫 About Me:
-💻 I'm currently working on:<br>AI-based projects, machine learning models, and problem-solving in Data Structures & Algorithms.<br>🤝 I'm looking to collaborate on:<br>Open-source AI/ML projects, hackathons, and innovative software development ideas.<br><br>🧠 I'm looking for help with:<br>Advanced deep learning, model optimization, and real-world AI deployment.<br><br>🌱 I'm currently learning:<br>Artificial Intelligence, Machine Learning, Python, and Cloud-based AI tools.<br><br>💬 Ask me about:<br>C++, Python, DSA, AI concepts, and building smart applications.<br><br>⚡ Fun fact:<br>I enjoy turning complex problems into simple and smart solutions.
+💻 I'm currently working on:<br>AI-based projects, machine learning models, and problem-solving in Data Structures & Algorithms.<br><br>🤝 I'm looking to collaborate on:<br>Open-source AI/ML projects, hackathons, and innovative software development ideas.<br><br>🧠 I'm looking for help with:<br>Advanced deep learning, model optimization, and real-world AI deployment.<br><br>🌱 I'm currently learning:<br>Artificial Intelligence, Machine Learning, Python, and Cloud-based AI tools.<br><br>💬 Ask me about:<br>C++, Python, DSA, AI concepts, and building smart applications.<br><br>⚡ Fun fact:<br>I enjoy turning complex problems into simple and smart solutions.
 
 
-## 🌐 Socials:
  ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_.ada_rxz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Adarsh_Chaudhary)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adarsh-chaudhary-071053331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adarshdx)
 
 
